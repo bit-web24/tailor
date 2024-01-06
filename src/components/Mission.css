@@ -1,0 +1,34 @@
+.mission {
+  position: relative;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  height: 400px;
+  font-family: cursive;
+}
+
+.mission h2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+}
+
+.mission-1 {
+  position: absolute;
+  border: 1px solid #efefef;
+  width: 400px;
+  height: 250px;
+  margin-left: 300px;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.mission-2 {
+  position: absolute;
+  border: 1px solid #efefef;
+  width: 400px;
+  height: 250px;
+  margin-left: 740px;
+  padding: 10px;
+  font-size: 25px;
+}

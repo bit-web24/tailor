@@ -1,0 +1,31 @@
+.samples {
+  margin-top: 80px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.sample-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: auto;
+}
+
+.samples h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+.sample-item {
+  padding: 10px;
+  text-align: center;
+  width: 300px;
+  height: 350px;
+}
+
+.sample-item img {
+  width: 300px;
+  height: 350px;
+  border-radius: 5px;
+}
